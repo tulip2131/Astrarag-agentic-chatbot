@@ -218,4 +218,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 #vector db dir
-doc_vector_store
+doc_vector_store/
+
+
+#vector db dir
+doc_vector_store/
